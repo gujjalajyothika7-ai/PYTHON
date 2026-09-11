@@ -1,0 +1,23 @@
+name,age,marks="ravi",20,85
+print(name)
+print(age)
+print(marks)
+a,b,c=10,20,30
+print(a)
+print(b)
+print(c)
+x="python"
+x="malla reddy"
+print(x)
+a=b=c=10
+print(a)
+print(b)
+print(c)
+productname="santoorsoap"
+price=60.25
+pincode=500090
+location="hyderabad"
+print(productname)
+print(price)
+print(pincode)
+print(location)
